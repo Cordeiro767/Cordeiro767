@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Banner em estilo manga preto e branco" width="100%" />
+<img src="./assets/profile-cover-twitter-style.png" alt="Capa em estilo manga preto e branco" width="100%" />
 
 # Felipe Cordeiro
 
