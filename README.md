@@ -4,9 +4,11 @@
 
 # Felipe Cordeiro
 
-### Sistemas de Informação | Automação, IA, redes e dashboards
+### Estudante de Sistemas de Informação
 
-Construo ferramentas práticas para aprender, resolver problemas reais e transformar ideias em software.
+`Automação` `IA aplicada` `Redes` `Linux` `Dashboards`
+
+Construo ferramentas práticas para estudar problemas reais e transformá-los em software utilizável.
 
 [![Projeto principal](https://img.shields.io/badge/Projeto_principal-Cyber_Home_Dashboard-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cordeiro767/cyber-home-dashboard)
 
@@ -14,11 +16,11 @@ Construo ferramentas práticas para aprender, resolver problemas reais e transfo
 
 ---
 
-## Projeto em Destaque
+## Projeto Principal
 
 ### [Cyber Home Dashboard](https://github.com/Cordeiro767/cyber-home-dashboard)
 
-**Local network monitoring dashboard built with FastAPI, SQLite, WebSocket and a cyberpunk-inspired UI.**
+Dashboard local de monitoramento de rede construído com **FastAPI**, **SQLite**, **WebSocket** e uma interface inspirada em cyberpunk.
 
 [![Cyber Home Dashboard preview](https://raw.githubusercontent.com/Cordeiro767/cyber-home-dashboard/main/docs/screenshots/dashboard-overview.png)](https://github.com/Cordeiro767/cyber-home-dashboard)
 
@@ -34,7 +36,7 @@ Construo ferramentas práticas para aprender, resolver problemas reais e transfo
 
 Sou estudante de **Sistemas de Informação** e aprendo construindo projetos que conectam código a problemas concretos. Tenho interesse em **automação**, **inteligência artificial aplicada**, **redes**, **Linux**, **segurança defensiva** e ferramentas visuais.
 
-Uso IA para acelerar pesquisa, prototipação e documentação, mantendo o raciocínio técnico, os testes e as decisões sob revisão.
+Uso IA como ferramenta de apoio para pesquisa, prototipação e documentação, mantendo testes e decisões técnicas sob revisão.
 
 ## Tecnologias
 
@@ -47,33 +49,18 @@ Uso IA para acelerar pesquisa, prototipação e documentação, mantendo o racio
 ![APIs](https://img.shields.io/badge/APIs-REST-00D9FF?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-00D9FF?style=flat-square)
 
-## Em Desenvolvimento
+## Estudando Agora
 
-| Projeto | Direção | Status |
-| --- | --- | --- |
-| Internet Visualizer | Visualizar latência e estabilidade da conexão local. | Planejamento |
-| WhatsApp Automation Bot | Explorar automações úteis com consentimento. | Planejamento |
-| AI Utilities | Ferramentas pequenas com IA aplicada a fluxos práticos. | Exploração |
+`Backend` `APIs` `WebSocket` `Automação` `IA aplicada` `Networking` `Linux`
 
-## Currently Learning
+Próximas ideias a explorar: **Internet Visualizer** e **AI Utilities**.
 
-`Automação` `IA aplicada` `Networking` `Linux` `Backend` `Aplicações em tempo real`
-
-## Goals
+## Objetivos
 
 - Construir ferramentas úteis, executáveis e bem documentadas.
 - Criar automações responsáveis para necessidades reais.
 - Evoluir em backend, redes e inteligência artificial aplicada.
 - Consolidar um portfólio técnico consistente durante a graduação.
-
-## GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&locale=pt-br" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
-
-</div>
 
 ## Contato
 
