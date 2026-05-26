@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" alt="Banner em estilo manga preto e branco" width="100%" />
+
 # Olá, eu sou Cordeiro767
 
 **Projetos pessoais de monitoramento local, automação e segurança defensiva.**
