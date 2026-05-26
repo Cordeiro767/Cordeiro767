@@ -2,11 +2,11 @@
 
 <img src="./assets/profile-banner.png" alt="Banner em estilo manga preto e branco" width="100%" />
 
-# Cordeiro767
+# Felipe Cordeiro
 
-### Estudante de Sistemas de Informação | Builder de ferramentas locais, automações e dashboards
+### Estudante de Sistemas de Informação | Automação, IA, redes e ferramentas visuais
 
-Construo projetos práticos para aprender redes, segurança defensiva, Linux e inteligência artificial aplicada.
+Construindo ferramentas práticas para aprender rápido, resolver problemas reais e transformar ideias em software.
 
 [![Projeto em destaque](https://img.shields.io/badge/Projeto_em_destaque-Cyber_Home_Dashboard-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cordeiro767/cyber-home-dashboard)
 
@@ -27,17 +27,16 @@ Construo projetos práticos para aprender redes, segurança defensiva, Linux e i
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/APIs-REST-00D9FF?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-00D9FF?style=flat-square)
 
 ## Featured Projects
 
 ### [Cyber Home Dashboard](https://github.com/Cordeiro767/cyber-home-dashboard)
 
-**Local network monitoring dashboard built with FastAPI, SQLite, WebSocket and a cyberpunk UI.**
+**Local network monitoring dashboard built with FastAPI, SQLite, WebSocket and a cyberpunk-inspired UI.**
 
 [![Cyber Home Dashboard preview](https://raw.githubusercontent.com/Cordeiro767/cyber-home-dashboard/main/docs/screenshots/dashboard-overview.png)](https://github.com/Cordeiro767/cyber-home-dashboard)
 
@@ -56,22 +55,22 @@ Construo projetos práticos para aprender redes, segurança defensiva, Linux e i
 | --- | --- | --- |
 | Internet Visualizer | Visualizar latência, rotas e estabilidade da conexão local. | Planejamento |
 | WhatsApp Automation Bot | Estudar automações úteis com limites claros e consentimento. | Planejamento |
-| AI Tools | Criar ferramentas pequenas que integrem IA a fluxos práticos. | Exploração |
+| AI Utilities | Criar ferramentas pequenas que integrem IA a fluxos práticos. | Exploração |
 
-## Aprendendo agora
+## Currently Learning
 
-- APIs locais e aplicações em tempo real com FastAPI e WebSocket.
-- Inventário e observabilidade de redes próprias.
-- Linux e automação de tarefas técnicas.
-- Integração responsável de IA em projetos de software.
-- Apresentação, documentação e evolução de projetos para portfólio.
+- Automação de fluxos e tarefas técnicas.
+- IA aplicada a ferramentas úteis e verificáveis.
+- Networking e observabilidade em redes próprias.
+- Linux para desenvolvimento e ambientes locais.
+- Backend com APIs e aplicações em tempo real.
 
-## Objetivos
+## Goals
 
-- Publicar projetos úteis, executáveis e bem documentados.
-- Evoluir fundamentos de backend, redes e segurança defensiva.
-- Criar ferramentas visuais que tornem informações técnicas fáceis de entender.
-- Construir um portfólio consistente enquanto avanço na graduação.
+- Construir ferramentas úteis, executáveis e bem documentadas.
+- Aprender IA aplicada a problemas reais.
+- Criar automações responsáveis que simplifiquem tarefas.
+- Evoluir tecnicamente em backend, redes e desenvolvimento de produto.
 
 ## GitHub
 
@@ -80,11 +79,13 @@ Construo projetos práticos para aprender redes, segurança defensiva, Linux e i
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&locale=pt-br" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 
+<img src="https://streak-stats.demolab.com?user=Cordeiro767&theme=transparent&hide_border=true&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições" />
+
 </div>
 
 ## Contato
 
-Para acompanhar meu trabalho ou conversar sobre projetos, use meu perfil e repositórios no GitHub: **[@Cordeiro767](https://github.com/Cordeiro767)**.
+Para acompanhar meu trabalho e meus projetos em construção: **[@Cordeiro767](https://github.com/Cordeiro767)**.
 
 ---
 
