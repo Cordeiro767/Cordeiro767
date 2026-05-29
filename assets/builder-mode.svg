@@ -1,13 +1,21 @@
-<svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Builder Mode developer mascot">
-  <rect width="260" height="260" rx="20" fill="#0D1117"/>
-  <circle cx="130" cy="124" r="88" stroke="#30363D" stroke-width="2"/>
-  <circle cx="130" cy="124" r="82" stroke="#22D3EE" stroke-width="2" stroke-dasharray="28 14" opacity="0.75"/>
-  <path d="M64 212c8-45 32-70 66-70s58 25 66 70H64Z" fill="#111827" stroke="#22D3EE" stroke-width="2"/>
-  <path d="M79 126c2-43 23-75 51-75s49 32 51 75c-14-19-30-29-51-29s-37 10-51 29Z" fill="#161B22" stroke="#F472B6" stroke-width="2"/>
-  <path d="M94 123c5-24 18-38 36-38s31 14 36 38c-8 18-20 28-36 28s-28-10-36-28Z" fill="#020617" stroke="#30363D" stroke-width="2"/>
-  <path d="M111 123c6 5 12 7 19 7s13-2 19-7" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
-  <rect x="73" y="166" width="114" height="62" rx="7" fill="#0B1120" stroke="#E879F9" stroke-width="2"/>
-  <path d="M105 197h50" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
-  <path d="M51 85h26M183 85h26M42 184h25M193 184h25" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
-  <path d="M57 99h14M189 99h14M53 198h18M189 198h18" stroke="#F472B6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Premium software builder mascot">
+  <rect width="320" height="320" rx="28" fill="#0D1117"/>
+  <rect x="14" y="14" width="292" height="292" rx="24" stroke="#30363D" stroke-width="2"/>
+  <circle cx="160" cy="148" r="103" stroke="#164E63" stroke-width="2"/>
+  <path d="M71 198c11-49 42-78 89-78s78 29 89 78v64H71v-64Z" fill="#111827"/>
+  <path d="M82 131c7-53 36-88 78-88s71 35 78 88c-18-24-43-38-78-38s-60 14-78 38Z" fill="#161B22" stroke="#22D3EE" stroke-width="2.5"/>
+  <path d="M99 128c9-33 30-53 61-53s52 20 61 53c-14 24-34 37-61 37s-47-13-61-37Z" fill="#020617" stroke="#334155" stroke-width="2"/>
+  <path d="M116 119c12 10 27 15 44 15s32-5 44-15" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M93 192c12-25 34-39 67-39s55 14 67 39" stroke="#22D3EE" stroke-width="2" opacity="0.65"/>
+  <rect x="79" y="190" width="162" height="76" rx="10" fill="#0B1120" stroke="#22D3EE" stroke-width="2.5"/>
+  <rect x="95" y="206" width="130" height="43" rx="5" fill="#020617" stroke="#30363D" stroke-width="1.5"/>
+  <path d="M135 229h50" stroke="#E5F9FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M46 86h38M236 86h38M42 220h35M243 220h35" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M55 104h21M244 104h21M56 239h22M242 239h22" stroke="#E5F9FF" stroke-width="2.5" stroke-linecap="round" opacity="0.45"/>
+  <path d="M49 132h18M253 132h18M50 164h12M258 164h12" stroke="#0891B2" stroke-width="2.5" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="160" cy="150" r="119" stroke="#22D3EE" stroke-width="1.5" stroke-dasharray="34 18" opacity="0.42"/>
+  <circle cx="73" cy="86" r="4" fill="#22D3EE"/>
+  <circle cx="247" cy="86" r="4" fill="#22D3EE"/>
+  <circle cx="72" cy="220" r="4" fill="#22D3EE"/>
+  <circle cx="248" cy="220" r="4" fill="#22D3EE"/>
 </svg>
