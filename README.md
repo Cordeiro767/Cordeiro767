@@ -76,12 +76,13 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Revenue Vision</h3>
+    <td width="100%" valign="top">
+      <h2><a href="https://github.com/Cordeiro767/revenue-vision">Revenue Vision</a></h2>
+      <p><b>Meu principal projeto de produto e negócios.</b></p>
       <p>
-        Projeto de estudo focado em dashboards, visualização de dados, UX e análise comercial.
+        Plataforma de análise comercial criada para transformar dados operacionais em relatórios e ferramentas úteis para negócios.
       </p>
-      <p><b>Por que estou construindo:</b> para entender como transformar planilhas em uma experiência visual mais útil e fácil de analisar.</p>
+      <p><b>Por que estou construindo:</b> para aprender dashboards, visualização de dados, UX, análise comercial e organização de um produto em módulos.</p>
       <p><b>O que estou aprendendo:</b></p>
       <ul>
         <li>Streamlit</li>
@@ -89,25 +90,12 @@
         <li>Plotly</li>
         <li>design de produto</li>
       </ul>
+      <p><b>Estrutura:</b> Analytics, Dashboards, Relatórios, Insights e FlowPay como módulo interno de contas a pagar.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Em%20andamento-0D1117?style=flat-square&logo=linear&logoColor=22D3EE" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>FlowPay</h3>
-      <p>
-        Projeto em planejamento para aprender construção de aplicações voltadas para negócios.
-      </p>
-      <p><b>Por que pretendo construir:</b> para estudar organização financeira, fluxos de produto e interfaces mais úteis para pequenas empresas.</p>
-      <p><b>O que pretendo aprender:</b></p>
-      <ul>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>UX financeira</li>
-        <li>banco de dados</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A1%20Planejamento-0D1117?style=flat-square&logo=linear&logoColor=FACC15" />
+        <a href="https://github.com/Cordeiro767/revenue-vision">
+          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=22D3EE" />
+        </a>
       </p>
     </td>
   </tr>
@@ -118,8 +106,8 @@
 <table>
   <tr>
     <td width="25%" align="center"><b>Backend</b><br /><sub>APIs, banco e arquitetura</sub></td>
-    <td width="25%" align="center"><b>Dados</b><br /><sub>dashboards e visualização</sub></td>
-    <td width="25%" align="center"><b>Produto</b><br /><sub>UX, clareza e utilidade</sub></td>
+    <td width="25%" align="center"><b>Dados</b><br /><sub>Revenue Vision</sub></td>
+    <td width="25%" align="center"><b>Produto</b><br /><sub>FlowPay dentro do Revenue Vision</sub></td>
     <td width="25%" align="center"><b>Automação</b><br /><sub>resolver trabalho manual</sub></td>
   </tr>
 </table>
