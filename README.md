@@ -3,9 +3,9 @@
 <img width="100%" src="./assets/stealth-banner.svg" alt="Felipe Cordeiro stealth technology banner" />
 
 <p>
-  <img src="https://img.shields.io/badge/Product%20Builder-0D1117?style=flat-square&logo=raycast&logoColor=22D3EE&labelColor=020617" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-0D1117?style=flat-square&logo=openai&logoColor=22D3EE&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Business%20Tools-0D1117?style=flat-square&logo=linear&logoColor=FFFFFF&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Estudante%20de%20SI-0D1117?style=flat-square&logo=github&logoColor=22D3EE&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Aprendendo%20na%20pr%C3%A1tica-0D1117?style=flat-square&logo=raycast&logoColor=22D3EE&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Projetos%20reais-0D1117?style=flat-square&logo=linear&logoColor=FFFFFF&labelColor=020617" />
   <img src="https://img.shields.io/badge/GitHub-Cordeiro767-0D1117?style=flat-square&logo=github&logoColor=22D3EE&labelColor=020617" />
 </p>
 
@@ -18,26 +18,26 @@
 <table>
   <tr>
     <td width="68%" valign="top">
-      <h3>Construindo ferramentas úteis, uma versão por vez.</h3>
+      <h3>Aprendendo desenvolvimento construindo projetos reais.</h3>
       <p>
-        Sou estudante de Sistemas de Informação e estou construindo uma base prática em software,
-        automação, IA aplicada e produtos digitais. Meu foco é transformar problemas reais em
-        MVPs simples, apresentáveis e úteis para negócios.
+        Sou estudante de Sistemas de Informação, iniciante em desenvolvimento, e estou usando projetos práticos
+        para evoluir em software, automação, IA aplicada e análise de dados.
       </p>
       <p>
-        Estou evoluindo como desenvolvedor criando projetos com cara de produto: dashboards,
-        sistemas internos, automações e ferramentas que reduzem trabalho manual.
+        Meu foco agora é aprender de verdade: construir, errar, melhorar e transformar curiosidade em ferramentas
+        cada vez mais claras, úteis e bem apresentadas.
       </p>
     </td>
     <td width="32%" valign="top">
       <h3>Direção</h3>
       <p>
-        <code>Produtos digitais</code>
+        <code>Aprendizado prático</code>
+        <code>Projetos reais</code>
         <code>Automação</code>
         <code>IA aplicada</code>
         <code>Dashboards</code>
+        <code>Análise de dados</code>
         <code>UX/UI</code>
-        <code>Soluções para negócios</code>
       </p>
     </td>
   </tr>
@@ -50,90 +50,77 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <img width="100%" src="https://placehold.co/1200x260/0D1117/22D3EE?text=Revenue+Vision+%7C+Analytics+Platform" alt="Revenue Vision preview placeholder" />
-      <h2>Revenue Vision</h2>
+      <h2><a href="https://github.com/Cordeiro767/cyber-home-dashboard">Cyber Home Dashboard</a></h2>
+      <p><b>Meu principal projeto técnico até agora.</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Analytics%20Platform-020617?style=for-the-badge&logo=databricks&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Em%20desenvolvimento-020617?style=for-the-badge&logo=linear&logoColor=22D3EE" />
+        Monitoramento de rede doméstica com descoberta automática de dispositivos, histórico e dashboard visual.
       </p>
+      <p><b>Por que estou construindo:</b> para aprender backend, tempo real, persistência de dados e conceitos práticos de redes em um projeto completo.</p>
+      <p><b>O que estou aprendendo:</b></p>
+      <ul>
+        <li>FastAPI</li>
+        <li>SQLite</li>
+        <li>WebSockets</li>
+        <li>arquitetura backend</li>
+        <li>conceitos de redes</li>
+      </ul>
       <p>
-        Transforma planilhas de vendas em relatórios executivos, indicadores de desempenho e insights comerciais claros para tomada de decisão.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Streamlit</code>
-        <code>Pandas</code>
-        <code>Plotly</code>
-      </p>
-      <p>
-        <a href="https://github.com/Cordeiro767">
-          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617" />
-        </a>
-        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=for-the-badge&logo=vercel&logoColor=8B949E&labelColor=020617" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://placehold.co/620x260/0D1117/22D3EE?text=FlowPay+%7C+Accounts+Payable" alt="FlowPay preview placeholder" />
-      <h3>FlowPay</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Accounts%20Payable%20System-020617?style=flat-square&logo=supabase&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/%F0%9F%9F%A1%20Planejamento-020617?style=flat-square&logo=linear&logoColor=FACC15" />
-      </p>
-      <p>
-        Sistema moderno de contas a pagar para pequenas empresas, focado em organização financeira, vencimentos, alertas e clareza operacional.
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>React</code>
-        <code>Tailwind</code>
-        <code>Supabase</code>
-      </p>
-      <p>
-        <a href="https://github.com/Cordeiro767">
-          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=22D3EE" />
-        </a>
-        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=flat-square&logo=vercel&logoColor=8B949E" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://placehold.co/620x260/0D1117/22D3EE?text=Cyber+Home+Dashboard+%7C+Network+Monitoring" alt="Cyber Home Dashboard preview placeholder" />
-      <h3><a href="https://github.com/Cordeiro767/cyber-home-dashboard">Cyber Home Dashboard</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/Network%20Monitoring-020617?style=flat-square&logo=grafana&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Em%20desenvolvimento-020617?style=flat-square&logo=linear&logoColor=22D3EE" />
-      </p>
-      <p>
-        Dashboard local para monitoramento de rede doméstica com visual moderno e foco em análise de dispositivos, histórico e automação.
-      </p>
-      <p>
-        <code>FastAPI</code>
-        <code>SQLite</code>
-        <code>WebSocket</code>
-        <code>Python</code>
-      </p>
-      <p>
+        <img src="https://img.shields.io/badge/Status-%F0%9F%94%B5%20Evoluindo-0D1117?style=flat-square&logo=linear&logoColor=22D3EE" />
         <a href="https://github.com/Cordeiro767/cyber-home-dashboard">
           <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=22D3EE" />
         </a>
-        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=flat-square&logo=vercel&logoColor=8B949E" />
       </p>
     </td>
   </tr>
 </table>
 
-## Building Now
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Revenue Vision</h3>
+      <p>
+        Projeto de estudo focado em dashboards, visualização de dados, UX e análise comercial.
+      </p>
+      <p><b>Por que estou construindo:</b> para entender como transformar planilhas em uma experiência visual mais útil e fácil de analisar.</p>
+      <p><b>O que estou aprendendo:</b></p>
+      <ul>
+        <li>Streamlit</li>
+        <li>Pandas</li>
+        <li>Plotly</li>
+        <li>design de produto</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Em%20andamento-0D1117?style=flat-square&logo=linear&logoColor=22D3EE" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>FlowPay</h3>
+      <p>
+        Projeto em planejamento para aprender construção de aplicações voltadas para negócios.
+      </p>
+      <p><b>Por que pretendo construir:</b> para estudar organização financeira, fluxos de produto e interfaces mais úteis para pequenas empresas.</p>
+      <p><b>O que pretendo aprender:</b></p>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>UX financeira</li>
+        <li>banco de dados</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A1%20Planejamento-0D1117?style=flat-square&logo=linear&logoColor=FACC15" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Aprendendo Agora
 
 <table>
   <tr>
-    <td width="25%" align="center"><b>Revenue Vision</b><br /><sub>analytics e relatórios comerciais</sub></td>
-    <td width="25%" align="center"><b>FlowPay</b><br /><sub>contas a pagar para pequenos negócios</sub></td>
-    <td width="25%" align="center"><b>IA aplicada a negócios</b><br /><sub>insights, automação e apoio operacional</sub></td>
-    <td width="25%" align="center"><b>Automação</b><br /><sub>menos trabalho manual, mais clareza</sub></td>
+    <td width="25%" align="center"><b>Backend</b><br /><sub>APIs, banco e arquitetura</sub></td>
+    <td width="25%" align="center"><b>Dados</b><br /><sub>dashboards e visualização</sub></td>
+    <td width="25%" align="center"><b>Produto</b><br /><sub>UX, clareza e utilidade</sub></td>
+    <td width="25%" align="center"><b>Automação</b><br /><sub>resolver trabalho manual</sub></td>
   </tr>
 </table>
 
@@ -189,5 +176,5 @@
 ---
 
 <p align="center">
-  <sub>Felipe Cordeiro constrói produtos e está evoluindo como desenvolvedor.</sub>
+  <sub>Aprendendo em público, construindo projetos reais e evoluindo continuamente.</sub>
 </p>
