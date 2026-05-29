@@ -29,18 +29,33 @@
   <rect x="1" y="1" width="1278" height="358" rx="23" stroke="#2A2A2A" stroke-width="1.5"/>
   <rect width="1280" height="360" fill="url(#technicalGrid)" opacity="0.62"/>
 
-  <g opacity="0.28" stroke="#D9D9D9" stroke-width="1" stroke-linecap="round">
-    <path d="M64 82H254L302 118H430M850 118H978L1026 82H1216" stroke-dasharray="34 24">
-      <animate attributeName="stroke-dashoffset" from="0" to="-232" dur="9s" repeatCount="indefinite"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 76H254L314 122H452" stroke="#2A2A2A" stroke-width="2.2"/>
+    <path d="M828 122H966L1026 76H1222" stroke="#2A2A2A" stroke-width="2.2"/>
+    <path d="M84 280H286L350 238H468" stroke="#2A2A2A" stroke-width="2.2"/>
+    <path d="M812 238H930L994 280H1196" stroke="#2A2A2A" stroke-width="2.2"/>
+    <path d="M132 42V150L178 184V316" stroke="#242424" stroke-width="2"/>
+    <path d="M1148 42V150L1102 184V316" stroke="#242424" stroke-width="2"/>
+    <path d="M0 180H222L270 154H386" stroke="#242424" stroke-width="2"/>
+    <path d="M894 154H1010L1058 180H1280" stroke="#242424" stroke-width="2"/>
+
+    <path d="M58 76H254L314 122H452" stroke="#D9D9D9" stroke-width="1.6" stroke-dasharray="120 520" opacity="0.42">
+      <animate attributeName="stroke-dashoffset" from="640" to="0" dur="5.8s" repeatCount="indefinite"/>
     </path>
-    <path d="M94 274H282L336 238H452M828 238H944L998 274H1186" stroke-dasharray="28 22">
-      <animate attributeName="stroke-dashoffset" from="0" to="220" dur="11s" repeatCount="indefinite"/>
+    <path d="M828 122H966L1026 76H1222" stroke="#D9D9D9" stroke-width="1.6" stroke-dasharray="120 520" opacity="0.36">
+      <animate attributeName="stroke-dashoffset" from="0" to="-640" dur="6.4s" repeatCount="indefinite"/>
     </path>
-    <path d="M142 44V146M232 210V316M1048 44V146M1138 210V316" stroke-dasharray="22 20">
-      <animate attributeName="stroke-dashoffset" from="0" to="-168" dur="10s" repeatCount="indefinite"/>
+    <path d="M84 280H286L350 238H468" stroke="#A0A0A0" stroke-width="1.5" stroke-dasharray="110 500" opacity="0.34">
+      <animate attributeName="stroke-dashoffset" from="0" to="-610" dur="7.2s" repeatCount="indefinite"/>
     </path>
-    <path d="M0 180H216M1064 180H1280" stroke-dasharray="42 32">
-      <animate attributeName="stroke-dashoffset" from="0" to="-296" dur="8s" repeatCount="indefinite"/>
+    <path d="M812 238H930L994 280H1196" stroke="#A0A0A0" stroke-width="1.5" stroke-dasharray="110 500" opacity="0.34">
+      <animate attributeName="stroke-dashoffset" from="610" to="0" dur="7.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M132 42V150L178 184V316" stroke="#D9D9D9" stroke-width="1.4" stroke-dasharray="90 440" opacity="0.26">
+      <animate attributeName="stroke-dashoffset" from="530" to="0" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1148 42V150L1102 184V316" stroke="#D9D9D9" stroke-width="1.4" stroke-dasharray="90 440" opacity="0.26">
+      <animate attributeName="stroke-dashoffset" from="0" to="-530" dur="8.5s" repeatCount="indefinite"/>
     </path>
   </g>
 
@@ -67,8 +82,9 @@
 
   <g filter="url(#depth)">
     <text x="640" y="144" text-anchor="middle" fill="url(#textMetal)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="8">FELIPE CORDEIRO</text>
-    <text x="640" y="204" text-anchor="middle" fill="#D9D9D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="0.8">Turning Business Problems Into Software</text>
-    <text x="640" y="244" text-anchor="middle" fill="#8A8A8A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="1.4">Software • Automation • Analytics</text>
+    <text x="640" y="196" text-anchor="middle" fill="#D9D9D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="1.2">Software Engineer</text>
+    <text x="640" y="232" text-anchor="middle" fill="#A0A0A0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1.1">Automation Builder</text>
+    <text x="640" y="264" text-anchor="middle" fill="#8A8A8A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1.1">Analytics Systems</text>
   </g>
 
   <g opacity="0.16">
