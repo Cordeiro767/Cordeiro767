@@ -124,8 +124,8 @@
       <img width="100%" src="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E5F9FF&dates=8B949E" alt="GitHub Streak" />
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/builder-mode.svg" width="280" alt="Builder Mode developer mascot" />
-      <p><sub>Builder Mode</sub></p>
+      <img src="./assets/builder-mascot.png" width="260" alt="Learning By Building developer mascot" />
+      <p><sub>Learning By Building</sub></p>
     </td>
   </tr>
 </table>
