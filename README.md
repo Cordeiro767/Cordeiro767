@@ -118,12 +118,32 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=22D3EE&text_color=E5F9FF&icon_color=22D3EE&bg_color=0D1117" alt="GitHub Stats" />
-      <br />
-      <img width="100%" src="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E5F9FF&dates=8B949E" alt="GitHub Streak" />
+    <td width="72%" valign="top">
+      <picture>
+        <source
+          srcset="https://ghstats.dev/api/card?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&icon_color=22d3ee&bg=0d1117"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          width="100%"
+          src="https://ghstats.dev/api/card?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&icon_color=22d3ee&bg=0d1117"
+          alt="GitHub Stats"
+        />
+      </picture>
+      <br /><br />
+      <picture>
+        <source
+          srcset="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5f9ff&dates=8b949e"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          width="100%"
+          src="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5f9ff&dates=8b949e"
+          alt="GitHub Streak"
+        />
+      </picture>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="28%" align="center" valign="middle">
       <img src="./assets/builder-mascot.png" width="230" alt="Modo Construtor mascot" />
       <p><sub>Modo Construtor</sub></p>
     </td>
@@ -131,34 +151,39 @@
 </table>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=22D3EE&text_color=E5F9FF&bg_color=0D1117" alt="Most Used Languages" />
+  <img
+    width="58%"
+    src="https://ghstats.dev/api/langs?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&bg=0d1117"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
 ## Skills
 
-<p align="center">
-  <img height="32" src="https://skillicons.dev/icons?i=python,js,react,nextjs,tailwind,fastapi,sqlite,git,github,linux,supabase,nodejs&theme=dark" alt="Skills" />
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>React</code>
-  <code>Next.js</code>
-  <code>FastAPI</code>
-  <code>SQLite</code>
-  <code>Automation</code>
-  <code>Dashboards</code>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <img height="38" src="https://skillicons.dev/icons?i=python,js,react,nextjs,tailwind,fastapi,sqlite,git,github,supabase,nodejs&theme=dark&perline=11" alt="Skills" />
+      <br /><br />
+      <sub>
+        Python · JavaScript · React · Next.js · FastAPI · SQLite · Git · Supabase · Node.js
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Cordeiro767&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img
+    width="100%"
+    src="https://github-profile-trophy-livid.vercel.app/?username=Cordeiro767&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
