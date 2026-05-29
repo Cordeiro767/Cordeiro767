@@ -97,12 +97,21 @@
 
 ---
 
-## GitHub Stats
+## Painel GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=radical&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=radical&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&icon_color=7CF7FF&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&icon_color=7CF7FF&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Cordeiro767&theme=tokyonight&hide_border=true&background=0D1117&ring=7CF7FF&fire=FF4B4B&currStreakLabel=7CF7FF" />
+
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&bg_color=0D1117" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cordeiro767&theme=tokyonight&utcOffset=-3" />
+
+<br />
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Cordeiro767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
