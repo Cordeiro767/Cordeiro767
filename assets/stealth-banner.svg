@@ -30,6 +30,30 @@
   <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
   <rect x="1" y="1" width="1278" height="358" rx="27" stroke="#2A2C30" stroke-width="2"/>
   <rect width="1280" height="360" fill="url(#grid)" opacity="0.55"/>
+  <g opacity="0.34" stroke-linecap="round">
+    <path d="M72 64H316M964 64H1208M112 296H392M888 296H1168" stroke="#74777F" stroke-width="1.2" stroke-dasharray="34 22">
+      <animate attributeName="stroke-dashoffset" from="0" to="-224" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.48;0.18" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M52 128H250M1030 128H1228M48 226H284M996 226H1232" stroke="#3F3F46" stroke-width="1" stroke-dasharray="18 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="180" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M126 34V154M238 206V326M1038 34V160M1152 206V326" stroke="#74777F" stroke-width="1.2" stroke-dasharray="28 20">
+      <animate attributeName="stroke-dashoffset" from="0" to="-192" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.16;0.44;0.16" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M188 44V118M306 244V318M974 42V122M1096 238V318" stroke="#3F3F46" stroke-width="1" stroke-dasharray="14 16">
+      <animate attributeName="stroke-dashoffset" from="0" to="140" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.24" stroke="#A1A1AA" stroke-width="1" stroke-linecap="round">
+    <path d="M0 180H220M1060 180H1280" stroke-dasharray="42 28">
+      <animate attributeName="stroke-dashoffset" from="0" to="-280" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M640 0V72M640 288V360" stroke-dasharray="22 18">
+      <animate attributeName="stroke-dashoffset" from="0" to="160" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
   <path d="M120 92H324L384 146H548L604 104H754L822 160H1120" stroke="#3B3D42" stroke-width="2" opacity="0.52" stroke-linecap="round">
     <animate attributeName="stroke-dasharray" values="0 1400;120 1280;0 1400" dur="8s" repeatCount="indefinite"/>
   </path>
