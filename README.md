@@ -97,22 +97,31 @@
 
 ---
 
-## Painel GitHub
+## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=FF4B9B&text_color=F5F5F5&bg_color=0D1117" />
+    </td>
+    <td width="42%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=FF4B9B&text_color=F5F5F5&icon_color=7CF7FF&bg_color=0D1117" />
+    </td>
+    <td width="24%" rowspan="2" align="center" valign="middle">
+      <img src="./assets/profile-banner.png" width="210" alt="Felipe Cordeiro cyber profile art" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=FF4B9B&fire=FFB000&currStreakLabel=FF4B9B&sideLabels=7CF7FF&dates=F5F5F5" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&icon_color=7CF7FF&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Cordeiro767&theme=tokyonight&hide_border=true&background=0D1117&ring=7CF7FF&fire=FF4B4B&currStreakLabel=7CF7FF" />
-
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=true&title_color=7CF7FF&text_color=F5F5F5&bg_color=0D1117" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Cordeiro767&theme=tokyonight&utcOffset=-3" />
-
-<br />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Cordeiro767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Cordeiro767&theme=radical&no-frame=false&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
