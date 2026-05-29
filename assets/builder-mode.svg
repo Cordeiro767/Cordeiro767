@@ -1,0 +1,13 @@
+<svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Builder Mode developer mascot">
+  <rect width="260" height="260" rx="20" fill="#0D1117"/>
+  <circle cx="130" cy="124" r="88" stroke="#30363D" stroke-width="2"/>
+  <circle cx="130" cy="124" r="82" stroke="#22D3EE" stroke-width="2" stroke-dasharray="28 14" opacity="0.75"/>
+  <path d="M64 212c8-45 32-70 66-70s58 25 66 70H64Z" fill="#111827" stroke="#22D3EE" stroke-width="2"/>
+  <path d="M79 126c2-43 23-75 51-75s49 32 51 75c-14-19-30-29-51-29s-37 10-51 29Z" fill="#161B22" stroke="#F472B6" stroke-width="2"/>
+  <path d="M94 123c5-24 18-38 36-38s31 14 36 38c-8 18-20 28-36 28s-28-10-36-28Z" fill="#020617" stroke="#30363D" stroke-width="2"/>
+  <path d="M111 123c6 5 12 7 19 7s13-2 19-7" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+  <rect x="73" y="166" width="114" height="62" rx="7" fill="#0B1120" stroke="#E879F9" stroke-width="2"/>
+  <path d="M105 197h50" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M51 85h26M183 85h26M42 184h25M193 184h25" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" opacity="0.85"/>
+  <path d="M57 99h14M189 99h14M53 198h18M189 198h18" stroke="#F472B6" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+</svg>
