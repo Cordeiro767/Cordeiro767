@@ -76,19 +76,29 @@
 
 <table>
   <tr>
-    <td width="35%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=7CF7FF&text_color=E5F9FF&bg_color=0D1117" alt="Most Used Languages" />
+    <td width="72%" valign="top">
+      <table>
+        <tr>
+          <td width="38%" valign="top">
+            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro767&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&title_color=7CF7FF&text_color=E5F9FF&bg_color=0D1117" alt="Most Used Languages" />
+          </td>
+          <td width="62%" valign="top">
+            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=7CF7FF&text_color=E5F9FF&icon_color=7CF7FF&bg_color=0D1117" alt="GitHub Stats" />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" valign="top">
+            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7CF7FF&fire=FF4B4B&currStreakLabel=7CF7FF&sideLabels=E5F9FF&dates=8B949E" alt="GitHub Streak" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="65%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Cordeiro767&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&title_color=7CF7FF&text_color=E5F9FF&icon_color=7CF7FF&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&ring=7CF7FF&fire=FF4B4B&currStreakLabel=7CF7FF&sideLabels=E5F9FF&dates=8B949E" alt="GitHub Streak" />
+    <td width="28%" align="center" valign="middle">
+      <h3>Builder Mode</h3>
+      <img src="./assets/dev-avatar.png" width="260" alt="Developer mascot in dark hoodie using a laptop with cyan glow" />
+      <p>
+        <sub>Avatar original para o perfil, salvo em <code>assets/dev-avatar.png</code>.</sub>
+      </p>
     </td>
   </tr>
 </table>
@@ -96,6 +106,26 @@
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Cordeiro767&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 </div>
+
+<details>
+  <summary>Fallback SVG inline para Builder Mode</summary>
+
+  <br />
+
+  <div align="center">
+    <svg width="260" height="260" viewBox="0 0 260 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Builder Mode fallback avatar">
+      <rect width="260" height="260" rx="28" fill="#020617"/>
+      <circle cx="130" cy="118" r="83" stroke="#06B6D4" stroke-width="2" stroke-dasharray="18 10" opacity="0.62"/>
+      <path d="M69 215c9-43 31-65 61-65s52 22 61 65H69Z" fill="#0B1120" stroke="#7CF7FF" stroke-width="2"/>
+      <path d="M81 125c3-40 22-69 49-69s46 29 49 69c-13-18-28-27-49-27s-36 9-49 27Z" fill="#111827" stroke="#7CF7FF" stroke-width="2"/>
+      <path d="M98 122c4-23 16-36 32-36s28 13 32 36c-7 19-18 29-32 29s-25-10-32-29Z" fill="#0F172A" stroke="#334155" stroke-width="1.5"/>
+      <rect x="74" y="164" width="112" height="62" rx="8" fill="#0D1117" stroke="#7CF7FF" stroke-width="2"/>
+      <path d="M113 196h34" stroke="#7CF7FF" stroke-width="3" stroke-linecap="round"/>
+      <path d="M46 83h25M189 83h25M42 190h17M202 190h17" stroke="#06B6D4" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+      <circle cx="130" cy="130" r="116" stroke="#0EA5E9" stroke-width="1" opacity="0.18"/>
+    </svg>
+  </div>
+</details>
 
 ---
 
