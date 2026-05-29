@@ -25,9 +25,10 @@
       </p>
     </td>
     <td width="68%" valign="top">
-      <h1>Building practical tools with automation, data and AI.</h1>
+      <h1>Construindo ferramentas práticas com automação, dados e IA.</h1>
       <p>
         Aprendo construindo MVPs reais: dashboards, automações, monitores locais e ferramentas que reduzem trabalho manual.
+        Meu foco é transformar projetos de estudo em software apresentável, útil e fácil de demonstrar.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Portfolio-em_construção-7CF7FF?style=for-the-badge&logo=github&logoColor=0B0B0B" />
@@ -57,22 +58,29 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Cordeiro767/cyber-home-dashboard">Cyber Home Dashboard</a></h3>
       <p>
-        Dashboard local para monitoramento de rede doméstica, inventário de dispositivos, eventos, topologia visual e status do notebook.
+        Projeto publicado: dashboard local para monitoramento defensivo de rede doméstica, inventário de dispositivos,
+        eventos em tempo real, topologia visual e status do notebook.
       </p>
       <p>
         <code>FastAPI</code> <code>SQLite</code> <code>WebSocket</code> <code>psutil</code> <code>Network Monitoring</code>
       </p>
       <ul>
-        <li>Inventário separado por perfil de rede.</li>
-        <li>Monitoramento local e defensivo.</li>
-        <li>Ferramentas seguras baseadas em comandos permitidos.</li>
+        <li>Backend em Python com API, SQLite e WebSocket.</li>
+        <li>Frontend visual com gráficos, topologia e painéis em tempo real.</li>
+        <li>Escopo defensivo, seguro e documentado para portfólio.</li>
       </ul>
-      <p><b>Status:</b> MVP funcional e em evolução.</p>
+      <p>
+        <a href="https://github.com/Cordeiro767/cyber-home-dashboard"><b>Ver repositório</b></a>
+        ·
+        <a href="https://github.com/Cordeiro767/cyber-home-dashboard#preview">Preview</a>
+      </p>
+      <p><b>Status:</b> MVP funcional publicado.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Revenue Vision / FlowPay</h3>
       <p>
-        Automação local de relatórios executivos a partir de planilhas de vendas e contas a pagar.
+        Próximo projeto do portfólio: automação local de relatórios executivos a partir de planilhas de vendas
+        e contas a pagar para pequenos negócios.
       </p>
       <p>
         <code>Python</code> <code>Streamlit</code> <code>pandas</code> <code>openpyxl</code> <code>Altair</code>
