@@ -50,17 +50,26 @@
 <table>
   <tr>
     <td width="100%" valign="top">
+      <img width="100%" src="https://placehold.co/1200x260/0D1117/22D3EE?text=Revenue+Vision+%7C+Analytics+Platform" alt="Revenue Vision preview placeholder" />
       <h2>Revenue Vision</h2>
-      <p><b>Transforma planilhas de vendas em relatórios executivos e insights comerciais.</b></p>
       <p>
-        Um produto para organizar dados comerciais, destacar indicadores importantes e entregar uma visão clara
-        para quem precisa tomar decisões sem depender de planilhas confusas.
+        <img src="https://img.shields.io/badge/Analytics%20Platform-020617?style=for-the-badge&logo=databricks&logoColor=22D3EE" />
+        <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2%20Em%20desenvolvimento-020617?style=for-the-badge&logo=linear&logoColor=22D3EE" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Analytics-0D1117?style=flat-square&logo=databricks&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/Dashboard-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=flat-square&logo=linear&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE" />
+        Transforma planilhas de vendas em relatórios executivos, indicadores de desempenho e insights comerciais claros para tomada de decisão.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Streamlit</code>
+        <code>Pandas</code>
+        <code>Plotly</code>
+      </p>
+      <p>
+        <a href="https://github.com/Cordeiro767">
+          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617" />
+        </a>
+        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=for-the-badge&logo=vercel&logoColor=8B949E&labelColor=020617" />
       </p>
     </td>
   </tr>
@@ -69,29 +78,62 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img width="100%" src="https://placehold.co/620x260/0D1117/22D3EE?text=FlowPay+%7C+Accounts+Payable" alt="FlowPay preview placeholder" />
       <h3>FlowPay</h3>
-      <p><b>Sistema moderno de contas a pagar para pequenas empresas.</b></p>
       <p>
-        Produto pensado para organizar vencimentos, pagamentos e visão financeira básica com uma experiência simples.
+        <img src="https://img.shields.io/badge/Accounts%20Payable%20System-020617?style=flat-square&logo=supabase&logoColor=22D3EE" />
+        <img src="https://img.shields.io/badge/%F0%9F%9F%A1%20Planejamento-020617?style=flat-square&logo=linear&logoColor=FACC15" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Finance-0D1117?style=flat-square&logo=supabase&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square&logo=python&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/SaaS-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" />
+        Sistema moderno de contas a pagar para pequenas empresas, focado em organização financeira, vencimentos, alertas e clareza operacional.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>Tailwind</code>
+        <code>Supabase</code>
+      </p>
+      <p>
+        <a href="https://github.com/Cordeiro767">
+          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=22D3EE" />
+        </a>
+        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=flat-square&logo=vercel&logoColor=8B949E" />
       </p>
     </td>
     <td width="50%" valign="top">
+      <img width="100%" src="https://placehold.co/620x260/0D1117/22D3EE?text=Cyber+Home+Dashboard+%7C+Network+Monitoring" alt="Cyber Home Dashboard preview placeholder" />
       <h3><a href="https://github.com/Cordeiro767/cyber-home-dashboard">Cyber Home Dashboard</a></h3>
-      <p><b>Dashboard local para monitoramento e análise de rede doméstica.</b></p>
       <p>
-        Uma central local com inventário de dispositivos, eventos em tempo real, topologia visual e métricas do notebook.
+        <img src="https://img.shields.io/badge/Network%20Monitoring-020617?style=flat-square&logo=grafana&logoColor=22D3EE" />
+        <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Em%20desenvolvimento-020617?style=flat-square&logo=linear&logoColor=22D3EE" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Network-0D1117?style=flat-square&logo=icloud&logoColor=22D3EE" />
-        <img src="https://img.shields.io/badge/Monitoring-0D1117?style=flat-square&logo=grafana&logoColor=F472B6" />
-        <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=22D3EE" />
+        Dashboard local para monitoramento de rede doméstica com visual moderno e foco em análise de dispositivos, histórico e automação.
+      </p>
+      <p>
+        <code>FastAPI</code>
+        <code>SQLite</code>
+        <code>WebSocket</code>
+        <code>Python</code>
+      </p>
+      <p>
+        <a href="https://github.com/Cordeiro767/cyber-home-dashboard">
+          <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=22D3EE" />
+        </a>
+        <img src="https://img.shields.io/badge/Screenshot%20futura-111827?style=flat-square&logo=vercel&logoColor=8B949E" />
       </p>
     </td>
+  </tr>
+</table>
+
+## Building Now
+
+<table>
+  <tr>
+    <td width="25%" align="center"><b>Revenue Vision</b><br /><sub>analytics e relatórios comerciais</sub></td>
+    <td width="25%" align="center"><b>FlowPay</b><br /><sub>contas a pagar para pequenos negócios</sub></td>
+    <td width="25%" align="center"><b>IA aplicada a negócios</b><br /><sub>insights, automação e apoio operacional</sub></td>
+    <td width="25%" align="center"><b>Automação</b><br /><sub>menos trabalho manual, mais clareza</sub></td>
   </tr>
 </table>
 
