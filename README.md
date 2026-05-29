@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,50:0B1120,100:0891B2&text=Felipe%20Cordeiro&fontColor=E5F9FF&fontSize=48&fontAlignY=42&desc=Transformando%20problemas%20reais%20em%20produtos%20digitais.&descAlignY=67&descSize=18" alt="Felipe Cordeiro banner" />
+<img width="100%" src="./assets/stealth-banner.svg" alt="Felipe Cordeiro stealth technology banner" />
 
 <p>
   <img src="https://img.shields.io/badge/Product%20Builder-0D1117?style=flat-square&logo=raycast&logoColor=22D3EE&labelColor=020617" />
