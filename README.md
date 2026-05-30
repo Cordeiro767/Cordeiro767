@@ -49,9 +49,18 @@ Projeto de análise de dados e dashboards.
 
 ## GitHub Stats
 
-<div align="center">
-  <img width="70%" src="./assets/github-stats-clean.svg" alt="GitHub Stats" />
-</div>
+<table>
+  <tr>
+    <td width="72%" valign="top">
+      <img width="100%" src="./assets/github-stats-clean.svg" alt="GitHub Stats" />
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="./assets/builder-mascot.png" width="230" alt="Modo Construtor" />
+      <br>
+      <sub>Modo Construtor</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="70%" src="./assets/top-languages-clean.svg" alt="Top Languages" />
