@@ -119,29 +119,7 @@
 <table>
   <tr>
     <td width="72%" valign="top">
-      <picture>
-        <source
-          srcset="https://ghstats.dev/api/card?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&icon_color=22d3ee&bg=0d1117"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img
-          width="100%"
-          src="https://ghstats.dev/api/card?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&icon_color=22d3ee&bg=0d1117"
-          alt="GitHub Stats"
-        />
-      </picture>
-      <br /><br />
-      <picture>
-        <source
-          srcset="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5f9ff&dates=8b949e"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img
-          width="100%"
-          src="https://streak-stats.demolab.com?user=Cordeiro767&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e5f9ff&dates=8b949e"
-          alt="GitHub Streak"
-        />
-      </picture>
+      <img width="100%" src="./assets/github-stats-clean.svg" alt="Felipe Cordeiro GitHub Stats" />
     </td>
     <td width="28%" align="center" valign="middle">
       <img src="./assets/builder-mascot.png" width="230" alt="Modo Construtor mascot" />
@@ -152,8 +130,8 @@
 
 <p align="center">
   <img
-    width="58%"
-    src="https://ghstats.dev/api/langs?username=Cordeiro767&theme=tokyonight&hide_border=false&border_color=30363d&title_color=22d3ee&text=e5f9ff&bg=0d1117"
+    width="72%"
+    src="./assets/top-languages-clean.svg"
     alt="Most Used Languages"
   />
 </p>
